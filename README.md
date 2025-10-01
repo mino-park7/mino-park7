@@ -1,14 +1,20 @@
 # **Minho Park**
 
-### **ML Engineering Lead | LLM Inference Optimization | MLOps**
+[![Minho Park's github stats](https://github-readme-stats.vercel.app/api?username=mino-park7)](https://github.com/anuraghazra/github-readme-stats)
+
+<div align=center>
+
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fmino-park7?color=blue&label=hits&size=medium)](https://myhits.vercel.app)
+
+</div>
+
+## **ML Engineering Lead | LLM Inference Optimization | MLOps**
 
 ### **👋 About Me**
 
 Hello! I'm Minho Park, an ML Engineering Lead who architects and leads the development of scalable, end-to-end LLM Inference Hardware SDKs. I specialize in efficient model serving and operational optimization, currently driving the development of a vLLM-based framework and a Kubernetes-native SDK. I am skilled in managing and automating the full software development lifecycle and have extensive experience in model optimization, MLOps, and deep learning research at an AI semiconductor company.
 
-* 📧 **Email**: minho.park2115@gmail.com  
-* 💼 **LinkedIn**: linkedin.com/in/your-profile  
-* 💻 **GitHub**: github.com/your-username
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minho-park-804a56142/)](https://www.linkedin.com/in/minho-park-804a56142/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minho.park2115@gmail.com)](mailto:miho.park2115@gmail.com)
 
 ### **🚀 Career Summary**
 
@@ -30,14 +36,7 @@ Hello! I'm Minho Park, an ML Engineering Lead who architects and leads the devel
 **Technical Expertise**
 
 * **LLM Inference Optimization**:  
-  * Attention Mechanisms (Paged Attention, Flash Attention)  
-  * Kernel Fusion  
-  * Quantization (AWQ, GPTQ, ...)  
-  * Parallelisms (Tensor, Pipeline)  
-  * Speculative Decoding  
 * **Distributed & MLOps Infrastructure**:  
-  * Kubernetes-based ML Infrastructure  
-  * Distributed LLM Inference (Tensor/Data/Pipeline Parallelism)
 
 ### **💻 Skills**
 
@@ -50,15 +49,5 @@ Hello! I'm Minho Park, an ML Engineering Lead who architects and leads the devel
 
 * **M.S. in Nuclear Engineering**, Seoul National University (Mar 2015 ~ Feb 2017)  
 * **B.S. in Nuclear Engineering**, Seoul National University (Mar 2011 ~ Feb 2015)
-
-### **📜 Publications**
-
-* Ko, J., Bae, J., **Park, M.**, Ko, Y., Kim, B. (2023). *Computational approach for plasma process optimization combined with deep learning model*. Journal of Physics D: Applied Physics.  
-* **Park, M.**, Na, Y. S., Seo, J., Kim, M., & Kim, K. (2017). *Effect of electron cyclotron beam width to neoclassical tearing mode stabilization by minimum seeking control in ITER*. Nuclear Fusion.
-
-### **🏆 Awards**
-
-* **Outstanding Educator Award**, Samsung DS Design University (AI System) - Dec 2021  
-* **Annual Technology Innovation Award**, Tmax Data - Jan 2019
 
 <p align="right">Last Updated: Oct 1, 2025</p>
